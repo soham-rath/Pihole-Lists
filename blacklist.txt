@@ -1,3 +1,5 @@
+
+# GOOGLE ADS
 ads.google.com
 mobileads.google.com
 adservice.google.com
@@ -12,3 +14,46 @@ googlesyndication.com
 googleadservices.com
 doubleclick.com
 doubleclick.net
+
+# FIREBASE AND GOOGLE ANALYTICS
+firebaselogging-pa.googleapis.com
+app-measurement.com
+www.google-analytics.com
+google-analytics.com
+
+# PANGLE / BYTEDANCE
+api-access.pangolin-sdk-toutiao.com
+log-api.pangolin-sdk-toutiao.com
+gromore.pangolin-sdk-toutiao.com
+pangolin.snssdk.com
+pangolin-sdk-toutiao.com
+pangolin-sdk-toutiao-b.com
+pangolin-sdk-toutiao1.com
+pangolin-dsp-toutiao.com
+pangolin-dsp-toutiao-b.com
+pangolin-hl.snssdk.com
+pangolin-lf.snssdk.com
+pangolin-lq.snssdk.com
+pglstatp-sdk-toutiao.com
+pglstatp-snssdk-toutiao.com
+pglstatp-toutiao.com
+pglstatp-toutiao-b.com
+
+# APPSFLYER
+launches.appsflyer.com
+events.appsflyer.com
+register.appsflyer.com
+
+# ADJUST
+app.adjust.com
+view.adjust.com
+eu.adjust.com
+
+# TEALIUM
+collect.tealiumiq.com
+collect-eu-central-1.tealiumiq.com
+
+# BRANCH - TEST BEFORE BLOCKING
+api2.branch.io
+api.branch.io
+api3-eu.branch.io
